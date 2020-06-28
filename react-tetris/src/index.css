@@ -1,5 +1,9 @@
 body {
   margin: 0;
-  font-family: 'Fira Code', monospace;
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('./font/Pixel-LCD-7.woff') format('woff');
 }
 
