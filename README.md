@@ -13,3 +13,4 @@ An implementation of Tetris built using React following the [How to Build Tetris
 From the project directory, run `npm start`
 
 ## ToDo
+- Add 'next tile' box
